@@ -1,0 +1,16 @@
+1 - активация .venv:
+source venv/Scripts/activate
+
+2 - установка Django:
+pip install django
+
+3 - установка Django-framework:
+pip install djangorestframework
+
+4 - запуск сервера:
+python manage.py runserver
+
+5 - запуск приложения:
+python manage.py
+
+
